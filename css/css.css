@@ -1,0 +1,409 @@
+ *{ 
+  margin: 0%;
+  padding: 0%;
+} 
+body{
+  border: none;
+}
+button{
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+}
+ul{
+  list-style: none;}
+ .head img,.home2 .d1 ,.home2 .d2,.home2 .d3,.overhome3 div,.home2 .d3 ul,.home3 .d10 ul,.home3 .d10 .d11,.overhome3 ul{
+  float: left;
+ }
+ .overhome3 ul i,.home3 .d10,.paragrav{
+  line-height: 3vw; 
+}
+ .head~div,.over5,.head{
+  width: 98.96vw;
+} 
+h2{
+  background-color: rgba(215, 216, 219, 0.829);
+  padding: .7vw;
+}
+.p4 {
+  margin-top: -2.55vw;
+  font-size: 2.7vw;}
+.b2,.over7 .d0 button,.over7 i{
+  background-color: rgba(7, 7, 189, 0.911);
+  color: beige;
+ }
+ div .icon,.overhome3 .icon{
+  position: absolute;
+   font-size: 2.5vw; 
+  opacity: 0;
+ visibility: hidden;
+ z-index: 3; 
+}
+.home .overhome1:hover div,.d1:hover .icon,.d2:hover .icon
+,.center:hover .icon,.home3 .d5 div:hover .icon,.d3:hover .icon,.d0:hover .icon{
+  visibility: visible;
+  opacity: 1;
+    transition: 1s;   
+ color: beige;
+ }
+ .home4,.home3,.home2,.home5{
+  background-attachment: fixed;
+ }
+ .overhome1 button,.overhome3 .icon button,.overhome4 .icon button{
+  margin: 1.49vw 1vw;
+  padding: .7vw 2.7vw;
+ }
+.overhome1 div,.home3 .d10,.home3 .d30,.home5 .da,.over6 .icon
+,.home5 .over6 .over,.over7 .da{
+  position: absolute;
+ }
+.head{
+ background-color: rgba(1, 19, 78, 0.527);
+ overflow: auto;
+ position: fixed;
+  top: 0;
+  z-index: 20; 
+}
+.head img{
+  width: 10%; 
+ height: 3.974vw;
+  margin-left: 2vw;
+}
+ .head ul,.paragrav{
+ float:right;
+   margin-top: 1%;  
+}  
+  .head ul li,.d0 ul li {
+   display: inline; 
+}  
+  .head ul li a{
+  border: .2vw solid  white;
+   padding: .02vw .25vw; 
+   margin-right: 1vw ;
+  font-size: 1.5vw;  
+} 
+.head ul .i,.home3 .d10,.overhome3 ul,.overhome4 .p5 span,div button,.d0 p{
+   font-size:1.7vw; 
+}
+ .head ul li a:hover{
+  transition: 1s;
+ font-size: 1.6vw; 
+ background-color:rgb(0, 0, 0);
+} 
+.head ul .hom a{
+   font-size: 1.6vw;  
+ background-color:rgb(0, 0, 0);
+}
+.home{
+  background: url(../imags/photo-1587620962725-abab7fe55159.avif) no-repeat;
+}
+.home,.overhome1{
+  height: 49.683vw;
+}
+.overhome1,.overhome ,.overhome3,.overhome4,.home3 .d5,.home4 .d4{
+ background-color: rgba(0, 0, 0, 0.37); 
+}
+.home,.home2,.home3,.home4,.home5,.over5{
+   position: relative; 
+  text-align: center; 
+  font-size: 2vw;
+  font-weight: bold;
+}
+.home,.home3,.home4,.home5{
+  background-size: cover;
+}
+ .home .i ,.home2 .d4 i{
+  color: rgb(241, 206, 8);
+ }
+ .overhome1 h2,.overhome .p10{
+   margin-top: 3.98vw; 
+ }
+ .home .overhome1 div{
+   opacity: 0;
+top:100%;
+left: 50%;
+transform: translate(-50% , -50%);
+background-color: rgba(0, 0, 0, 0.678);
+}
+.overhome1 ul{
+  color: rgb(255, 0, 0);
+ }  
+ .overhome1 div button,.over7 button{
+  padding: 1.3vw 5.4vw;
+ }
+ .home3 .d1:hover .icon,.home3 .d2:hover .icon,.home3 .d5 div:hover .icon{
+  top:10%;
+ }
+ .over5 .center:hover .icon{
+  top: 20%;
+ }
+ .overhome1:hover div{
+  margin-top:-22.36vw;
+ }
+ .home3{
+  background-image: url(../imags/dd.jpg); 
+ }
+.overhome ,.overhome3 ,.home3 .d5,.overhome4,.home4 .d4 div,.over5,.over6,.over7 .up,.islam{
+  overflow: auto;
+}
+.d1,.d2,.d3,.home3 .d4,.overhome .icon,.home3 .d11,.over5 div ,.over6 div ,.over7 .d0{ 
+ width: 22vw ;
+  height: 23.848vw; 
+}
+.d1,.d2,.d3,.overhome3 div,.home5 .center,.home5 .over,.home5 .d0{
+ position:relative; 
+} 
+.home2 .d1,.home2 .d2,.home2 .d3,.home4 .d1,.home4 .d2,.home4 .d3{
+  margin: 4.97vw 4.5vw;
+ background-color: rgba(73, 72, 72, 0.705); 
+}
+.home2 .icon i,.over5 .icon i,.icon a,.full a{
+  font-size: 3.5vw;
+  background-color: white;
+}
+.home2 .icon a .i5,.home3 .p4,.home3 .overhome3 .p10,.home3 .d10 p,.overhome4 .p2,.home3 h2
+,.full .i1{
+   color:rgb(219, 10, 10)
+}
+.home3 .overhome3 div,.overhome4 div{
+  margin:0vw 1.65vw;
+   line-height: 3.4vw; 
+}
+.home3 .overhome3 .d5{
+  float: none;
+   width: 51vw; 
+  margin: 35.5vw -.2vw; 
+ background-color: rgba(0, 0, 0, 0);
+}
+.overhome3 .d5 div{
+   margin:0vw 1.75vw; 
+}
+.home2 .overhome .p5 ,.home4 .p5,.home4 .d4 img{
+  width: 10vw;
+  border-radius: 50%;
+}
+.home4 .d4 img,.home5 .full img{
+  height: 9vw;
+}
+.home2 .overhome .p5 ,.home4 .p5{
+font-size: 3.4vw;
+margin-left: 5.6vw;
+outline: .4vw solid   rgb(65, 65, 65);}
+.home2 .overhome .p5{
+  margin: -3.48vw 5.6vw; 
+}
+.home2 .icon,.home3,.head ul li a,.head,.home4 .d4,.full,h1,.islam{
+ color: white; 
+}
+.home2 .d3 ul li,.home4 .d4 ul,.home2 .d2 li{
+    padding-top:1.4vw  
+} 
+.home2 .d3 ul{
+  font-size: 1.25vw;
+  margin-left: 1.6vw;
+}
+ .d1::after,.d2::after,.d3::after,.overhome3 .d4::after,.over6 .over::after
+ ,.over7 .d0::after{
+  content: " ";
+  position: absolute;
+  width: 0%;
+  height:0%;
+  top: 0%;
+  left: 0%;
+  transition: 1s;
+}
+.d1::after,.d2::after,.d3::after,.overhome3 .d4::after{
+  background-color: rgba(0, 0, 0, 0.911);
+}
+.overhome4 div::after,.over6 .over::after,.over7 .d0::after{
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.705);
+}
+.overhome div:hover::after,.overhome3 div:hover::after,.overhome4 div:hover::after
+,.over6 .over:hover::after,.over7 .d0:hover::after{
+width: 100%;
+height: 100%; 
+opacity:1;
+}
+.home2 .d4,.home3 .d10,.home5 h2,.home2 .d1,.home2 .d2,.home2 .d3,.p5,.img p{
+  background-color: rgba(255, 255, 255, 0.959);
+   color: black;
+}
+ .home3 .d30{
+  width: 45vw;
+  right: 0;
+  padding-bottom: .5vw;
+  background-color: rgba(8, 0, 0, 0.945);
+  z-index: 2;
+} 
+.home3 .d30 img{
+  width: 15.5vw;
+  height: 7.6vw;
+  margin-left: 5vw;
+} 
+.home3 .d30 i,.home4 .d4 div i,.islam i{
+  color: rgb(216, 127, 10);
+}
+.overhome3 .p10,.home3 .d10 p,.overhome3 ul i{
+  font-size: 2.5vw;
+}
+.overhome3 .icon,.overhome4 .icon{
+ top: -8%;   
+}
+ .over5 .icon{
+ top: 30%;
+} 
+.home3 .d10{
+  text-align:left;
+  top: 64.588vw;
+}
+.home3 .d10 ul,.home3 .d10 .d11{
+  margin:6vw 7vw;
+}
+.home3 .d10 .d11{
+  background-image: url(../imags/-51015488997642909280.0.jpg);
+  background-size: cover; 
+  outline:2vw solid rgba(255, 255, 255, 0.849);
+}
+.overhome3 ul,.home4 .d4 div{
+  margin: 6vw 6vw;
+}
+.overhome3 i,.d10 i,.home4 .d4 ul{
+  color: rgba(4, 182, 214, 0.904);
+}
+.home4 .overhome4 div,.home4 .d4 img,.home4 ul,.home4 .d4 div,.center,.over6 div,.img{
+  float: left;
+}
+.home4 .overhome4 div,.home4 .d4,.over6 .d0{
+   height: 27.971vw;  
+}
+.overhome4,.over7 .d0,.img{
+ background-color: white;
+}
+.home4{
+background-image: url(../imags/photo-1580860749755-f49eb5509d55.avif);
+}
+.overhome4 div:hover .b2{
+transition: 1.5s; 
+ margin-top: 10vw;
+}
+.home4 .d4 div p,.home4 .d4 div span{
+  margin-top:10vw ;
+  font-size: 1.35vw; 
+}
+.home4 .d4 div{
+ margin-left: 10vw;
+  width: 33vw;
+}
+ .home5 .da,.over6 .icon{
+  width: 18vw;
+margin: 0% 2vw;
+ } 
+ .home5 .da img,.img img{
+  height: 100%; 
+ width: 100%;
+ }
+.over5 .center,.over6 .d0{
+     margin: 3em 2.5em;  
+    background-color: rgba(255, 255, 255, 0.918);
+ } 
+ .home2 .overhome .icon:hover,.over5 .over:hover,.over6 .d0:hover .icon{
+  background-color: rgba(0, 0, 0, 0.767);
+  transition: 0s;
+} 
+.over6 .da,.over6 .icon{
+  margin-top: 1vw;
+  height: 80%;
+}
+.over6 .icon a{
+  display: block;
+  width: 4vw; 
+ margin-left: auto;
+}
+.over6 .over{
+  height: 100%;
+  z-index: 10;
+}
+.over6 .p1{
+  margin-top:  108%;  
+}
+.d0 ul{
+  margin-top: 75%;
+}
+.d0 ul li{
+  font-size: 1vw;
+}
+.over6 .d0:hover{
+color: rgb(8, 4, 196);
+}
+.over7 .d0{
+  float: left;
+  margin-left: 6vw;
+}
+.over7 .up,.paragrav p{
+   margin-top: 8.446vw;
+   background-color: black; 
+} 
+.over7 .up{
+  width: 90vw;
+  background-color: rgba(0, 0, 0, 0.055);
+  margin-left: 5vw;
+  line-height: 2.8vw; 
+}
+.over7 .da,.full img{
+  width: 14vw;
+}
+.over7 .da img{
+  height: 17vw;
+}
+.overhome3 .icon, .overhome3 .d5 .icon,.overhome4 .icon{
+  margin: 0vw 0vw;
+}
+.home5{
+background-image: url(../imags/photo-1605379399642-870262d3d051.avif);
+}
+.home2{
+background-image: url(../imags/a.png);
+}
+.over5,.over7{
+  background-color: rgba(104, 100, 104, 0.952);
+}
+.over6{
+  background-color: rgba(202, 202, 202, 0.932);
+}
+.home5 .full img{
+  display: block;
+   margin: auto; 
+}
+.full{
+ border: 1vw solid rgba(255, 255, 255, 0.877); 
+  border-radius: 20%;
+}
+.img,.paragrav{
+  width: 28vw;
+}
+.paragrav{
+ width: 70.5vw;
+}
+.img img{
+  height: 19.972vw;
+}
+.full a:hover{
+  background-color: rgba(1, 1, 3, 0.479);
+}
+.full a{
+  border-radius: 50%;
+}
+.full i{
+ padding: 2vw;
+}
+.overhome3 div{
+  background-color: rgba(0, 0, 0, 0.877);
+}
+div,.home5 .over7 div{
+  height: auto;
+}
+.over5 ,.over6,.islam,.over7{
+  padding-bottom: 5vw;
+}
